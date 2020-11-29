@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1529903718 source:g:\codeblocks\bankacc__\main.cpp
+	"ah.h"
+	"public_.h"
+	"pass_.h"
+	"public_.h"
+	"login_.h"
+
+1529896725 source:g:\codeblocks\bankacc__\ah.cpp
+	"ah.h"
+
+1529940303 g:\codeblocks\bankacc__\ah.h
+	<iostream>
+	<stdio.h>
+	<io.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<fstream>
+	<time.h>
+	<errno.h>
+	<direct.h>
+
+1529896921 source:g:\codeblocks\bankacc__\pass_.cpp
+	"pass_.h"
+	"ah.h"
+
+1529949329 g:\codeblocks\bankacc__\pass_.h
+	"ah.h"
+	"enc.h"
+
+1529897024 source:g:\codeblocks\bankacc__\time_.cpp
+	"time_.h"
+	"ah.h"
+
+1529897024 g:\codeblocks\bankacc__\time_.h
+	"ah.h"
+
+1529898207 source:g:\codeblocks\bankacc__\login_.cpp
+	"login_.h"
+	"ah.h"
+
+1529940773 g:\codeblocks\bankacc__\login_.h
+	"ah.h"
+	"public_.h"
+	"pass_.h"
+
+1529949161 g:\codeblocks\bankacc__\public_.h
+	"ah.h"
+	"pass_.h"
+	"enc.h"
+
+1529897800 source:g:\codeblocks\bankacc__\public_.cpp
+	"public_.h"
+	"pass_.h"
+
+1529936928 source:g:\codeblocks\bankacc__\enc.cpp
+	"enc.h"
+
+1529937618 g:\codeblocks\bankacc__\enc.h
+	<iostream>
+	<string>
+
